@@ -20,7 +20,7 @@ A ready-to-use BDMV directory template for making and testing simple BD-J Xlets.
   - ```jar cvf 00000.jar -C src .```
 6. Copy the newly created `00000.jar` into:
 - ```BDJProjectBDMV\BDMV\JAR\```
-7. Create three folders on your desktop:
+7. Create the ISO with ImgBurn:
     - Open ImgBurn → Create image file from files/folders
     - Select the BDJProjectBDMV folder as source
     - Save the ISO into your ISO Output folder
