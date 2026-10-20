@@ -6,6 +6,7 @@ A ready-to-use BDMV directory template for making and testing simple BD-J Xlets.
 - SOURCE directory containing
     - Hello World `Xlet.java`
     - `.perm` file
+    -  `BuildXlet.bat` (needed for one-click command for compilation)
     - `BD-J.jar` (needed for compilation)
 # Instructions
 1. Download and install Java 8 JDK (Adoptium Temurin 8 is recommended). Newer Java versions are not recommended.
